@@ -1,9 +1,9 @@
-# Setting up Validator Keys
+# Configuración de claves de validación
 
-## :seedling: 1. Obtain testnet ETH
+## :Plántula: 1. Obtener ETH de la red de prueba
 
 {% hint style="info" %}
-Every 32 ETH you own allows you to make 1 validator. You can run thousands of validators with your node. However on testnet, please only run 1 or 2 validators to keep the activation queue reasonably quick.
+Cada 32 ETH que posees te permite hacer 1 validador. Puede ejecutar miles de validadores con su nodo. Sin embargo, en la red de pruebas, solo ejecute 1 o 2 validadores para mantener la cola de activación
 {% endhint %}
 
 <details>
